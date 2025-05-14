@@ -14,4 +14,5 @@ Windows Forms application for managing patient-doctor relationships and appointm
 
 ### Running the Application
 1. Run SQL script
-2. Run executable
+2. Edit exe.cfg
+3. Run executable
